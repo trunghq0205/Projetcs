@@ -1,3 +1,3 @@
 # My Project Repository
 
-Include source code from *ipynb file
+Include source code from *.ipynb files of projects in my CV
