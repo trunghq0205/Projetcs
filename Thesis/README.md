@@ -10,6 +10,3 @@
 
 4. **Strategy_2_sharpe_ratio.ipynb**: Chứa kết quả thử nghiệm của chiến thuật đầu tư chứng khoán dựa trên Moving Average Crossover (MAC) và chiến thuật MAC khi kết hợp với các điểm bất thường.
    [Truy cập trực tiếp tại đây](https://colab.research.google.com/github/trunghq0205/Projetcs/blob/main/Thesis/Stratety_2_sharpe_ratio.ipynb)
-
-5. Bài báo được xuất bản tại hội nghị 18th International Conference on Advanced Computing and Analytics (ACOMPA 2024).
-   [Truy cập trực tiếp tại đây](https://drive.google.com/file/d/1epxf-JexGRdqBH-L89diVwQwW6gsyCN6/view?usp=sharing)
